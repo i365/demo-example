@@ -1,6 +1,6 @@
 # Free PDF Tools
 
-[PDF123 PDF Toolbox, split pdf/merge/remove page/edit property...](https://jstool.gitlab.io/pdf123/)
+[PDF123 Toolbox](https://jstool.gitlab.io/pdf123/)
 
 [Quickly split a multi-page PDF into multiple small PDFs](https://jstool.gitlab.io/pdf123/split/)
 
