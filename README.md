@@ -11,3 +11,10 @@
 [jstool](https://jstool.gitlab.io/)
 
 [PDF123 PDF Toolbox, split pdf/merge/remove page/edit property...](https://jstool.gitlab.io/pdf123/)
+
+### vue demos
+[vuejs loading animation on ajax tooltip demo(vuejs, element-ui)](https://jstool.gitlab.io/demo/vue/vue_loading-demo-element-ui.html)
+
+[vuejs popover tooltip demo(js, vuejs, element-ui)](https://jstool.gitlab.io/demo/vue/vue-popover-tooltip-element-ui-demo.html)
+
+[Download File from URL for Chrome/how add new download task](https://jstool.gitlab.io/demo/chrome/download-file-from-url.html)
